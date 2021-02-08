@@ -1,0 +1,13 @@
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\bin\Debug\netcoreapp3.1\1.StudInfo.exe
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\bin\Debug\netcoreapp3.1\1.StudInfo.deps.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\bin\Debug\netcoreapp3.1\1.StudInfo.runtimeconfig.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\bin\Debug\netcoreapp3.1\1.StudInfo.runtimeconfig.dev.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\bin\Debug\netcoreapp3.1\1.StudInfo.dll
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\bin\Debug\netcoreapp3.1\1.StudInfo.pdb
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\obj\Debug\netcoreapp3.1\1.StudInfo.csprojAssemblyReference.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\obj\Debug\netcoreapp3.1\1.StudInfo.AssemblyInfoInputs.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\obj\Debug\netcoreapp3.1\1.StudInfo.AssemblyInfo.cs
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\obj\Debug\netcoreapp3.1\1.StudInfo.csproj.CoreCompileInputs.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\obj\Debug\netcoreapp3.1\1.StudInfo.dll
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\obj\Debug\netcoreapp3.1\1.StudInfo.pdb
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\1.StudInfo\obj\Debug\netcoreapp3.1\1.StudInfo.genruntimeconfig.cache

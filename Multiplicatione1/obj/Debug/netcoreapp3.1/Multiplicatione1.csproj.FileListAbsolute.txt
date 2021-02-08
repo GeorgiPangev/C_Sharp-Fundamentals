@@ -1,0 +1,12 @@
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\bin\Debug\netcoreapp3.1\Multiplicatione1.exe
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\bin\Debug\netcoreapp3.1\Multiplicatione1.deps.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\bin\Debug\netcoreapp3.1\Multiplicatione1.runtimeconfig.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\bin\Debug\netcoreapp3.1\Multiplicatione1.runtimeconfig.dev.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\bin\Debug\netcoreapp3.1\Multiplicatione1.dll
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\bin\Debug\netcoreapp3.1\Multiplicatione1.pdb
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\obj\Debug\netcoreapp3.1\Multiplicatione1.AssemblyInfoInputs.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\obj\Debug\netcoreapp3.1\Multiplicatione1.AssemblyInfo.cs
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\obj\Debug\netcoreapp3.1\Multiplicatione1.csproj.CoreCompileInputs.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\obj\Debug\netcoreapp3.1\Multiplicatione1.dll
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\obj\Debug\netcoreapp3.1\Multiplicatione1.pdb
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\Multiplicatione1\obj\Debug\netcoreapp3.1\Multiplicatione1.genruntimeconfig.cache

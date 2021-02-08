@@ -1,0 +1,12 @@
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\bin\Debug\netcoreapp3.1\oddSum.exe
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\bin\Debug\netcoreapp3.1\oddSum.deps.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\bin\Debug\netcoreapp3.1\oddSum.runtimeconfig.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\bin\Debug\netcoreapp3.1\oddSum.runtimeconfig.dev.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\bin\Debug\netcoreapp3.1\oddSum.dll
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\bin\Debug\netcoreapp3.1\oddSum.pdb
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\obj\Debug\netcoreapp3.1\oddSum.AssemblyInfoInputs.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\obj\Debug\netcoreapp3.1\oddSum.AssemblyInfo.cs
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\obj\Debug\netcoreapp3.1\oddSum.csproj.CoreCompileInputs.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\obj\Debug\netcoreapp3.1\oddSum.dll
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\obj\Debug\netcoreapp3.1\oddSum.pdb
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\oddSum\obj\Debug\netcoreapp3.1\oddSum.genruntimeconfig.cache

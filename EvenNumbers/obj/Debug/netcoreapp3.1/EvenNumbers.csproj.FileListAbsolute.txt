@@ -1,0 +1,12 @@
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.exe
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.deps.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.runtimeconfig.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.runtimeconfig.dev.json
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.dll
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\bin\Debug\netcoreapp3.1\EvenNumbers.pdb
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.AssemblyInfoInputs.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.AssemblyInfo.cs
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.csproj.CoreCompileInputs.cache
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.dll
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.pdb
+D:\C#\BasicSyntax,ConditionalStatement andLoops-Lab\EvenNumbers\obj\Debug\netcoreapp3.1\EvenNumbers.genruntimeconfig.cache
