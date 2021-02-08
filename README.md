@@ -1,1 +1,3 @@
-# C_Sharp-Fundamentals
+# C# - Fundamentals
+
+Homework, Problems and Exams
