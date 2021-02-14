@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: 'Reggae One', cursive;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+p {
+    background: chartreuse;
+    text-align: left;
+}
+.One {
+    color: crimson;
+}
+.r{
+    color:  red;
+}
+.us{
+    color: royalblue;
+}
+.c{color: yellowgreen ;}
+
+img {width: 200px;
+margin-left: 50px;}
+
+nav ul li {
+   display: inline-block;
+   text-decoration: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serifo;
+}
+nav a
+{
+    text-decoration: none;
+   font-family: Verdana, Geneva, Tahoma, sans-serifo;
+   color: black;
+   margin-right: 20px;
+   padding: 5px;
+  
+}
+nav
+{
+    padding: 20px;
+     background: aquamarine;
+    border-radius: 8px;
+    }
+button{
+    border: 2px solid red;
+    background: #f1ea13bf;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 5;
+    padding: 10px 20px;
+    color: #f1ea13bf;
+    font-weight: bold;
+}

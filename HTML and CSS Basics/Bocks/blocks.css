@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://www.meissl.com/media/images/8f24db1f/schweiz.jpg);
+}
+div{
+    display: inline-block;
+}
+
+.redBlock{
+   
+    background-color: red;
+}
+.blueBlock{
+    
+background-color: blue;
+}
+.orangeBlock{
+    background-color: orange;
+}
+.purpleBlock{
+  
+    background-color: purple;
+}
+.greenBlock {
+    
+    background-color: green;
+}
